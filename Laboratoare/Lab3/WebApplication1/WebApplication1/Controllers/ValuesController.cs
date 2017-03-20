@@ -17,23 +17,25 @@ namespace WebApplication1.Controllers
         }
 
         // GET api/values/5
-        [HttpGet("{id:int}")]
-        public string Get(int id)
+        [HttpGet("sum")]
+        public string Get(int n1, int n2)
         {
-
-            return "integer=" + id;
+            int sum = n1 + n2;
+            return "sum="+ sum;
         }
 
-        [HttpGet("{id}")]
-        public string Get(string id)
-        {
-            return "string=" + id;
-        }
+        //[HttpGet("{id}")]
+        //public string Get(string id)
+        //{
+        //    return "string=" + id;
+        //}
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public MathObject Post([FromBody]MathObject obj)
         {
+            obj.Sum = obj.N1 + obj.N2;
+            return obj;
         }
 
         // PUT api/values/5

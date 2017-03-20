@@ -39,20 +39,7 @@ namespace WebApplication1
 
             app.UseDeveloperExceptionPage();
 
-            //app.Use(async (ctx, next) =>
-            //{
-            //    try
-            //    {
-            //        await next.Invoke();
-            //    }
-            //    catch (Exception ex)
-            //    {
-
-            //    }
-            //});
-
             app.UseMvc();
-
         }
     }
 }
