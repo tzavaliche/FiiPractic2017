@@ -1,0 +1,9 @@
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\ProducerApi.deps.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\ProducerApi.runtimeconfig.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\ProducerApi.runtimeconfig.dev.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\ProducerApi.dll
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\ProducerApi.csprojResolveAssemblyReference.cache
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\ProducerApi.AssemblyInfo.cs
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\ProducerApi.pdb
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\ProducerApi.dll
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\ProducerApi.pdb

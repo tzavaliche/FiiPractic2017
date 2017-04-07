@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChassisService", "ChassisService\ChassisService.csproj", "{66E7B026-47C7-44A7-AB99-1AC06233D241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderService", "BuilderService\BuilderService.csproj", "{B7691FC9-A5EF-408D-896E-A36648008E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerServiceApi", "ProducerServiceApi\ProducerServiceApi.csproj", "{82A10D55-35DC-4D74-AF0A-DD2EFE0077EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E7B026-47C7-44A7-AB99-1AC06233D241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7B026-47C7-44A7-AB99-1AC06233D241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7B026-47C7-44A7-AB99-1AC06233D241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E7B026-47C7-44A7-AB99-1AC06233D241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7691FC9-A5EF-408D-896E-A36648008E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7691FC9-A5EF-408D-896E-A36648008E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7691FC9-A5EF-408D-896E-A36648008E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7691FC9-A5EF-408D-896E-A36648008E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A10D55-35DC-4D74-AF0A-DD2EFE0077EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A10D55-35DC-4D74-AF0A-DD2EFE0077EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A10D55-35DC-4D74-AF0A-DD2EFE0077EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A10D55-35DC-4D74-AF0A-DD2EFE0077EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

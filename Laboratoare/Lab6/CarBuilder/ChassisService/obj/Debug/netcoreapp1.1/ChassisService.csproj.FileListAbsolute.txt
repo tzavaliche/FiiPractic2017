@@ -1,0 +1,18 @@
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.deps.json
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.runtimeconfig.json
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.runtimeconfig.dev.json
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.dll
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.AssemblyInfo.cs
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.pdb
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.dll
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.pdb
+D:\TestProjects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.deps.json
+D:\TestProjects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.runtimeconfig.json
+D:\TestProjects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.runtimeconfig.dev.json
+D:\TestProjects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.dll
+D:\TestProjects\CarBuilder\ChassisService\bin\Debug\netcoreapp1.1\ChassisService.pdb
+D:\TestProjects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.AssemblyInfo.cs
+D:\TestProjects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.dll
+D:\TestProjects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.pdb
+D:\TestProjects\CarBuilder\ChassisService\obj\Debug\netcoreapp1.1\ChassisService.csprojResolveAssemblyReference.cache

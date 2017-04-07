@@ -1,0 +1,18 @@
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.deps.json
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.runtimeconfig.json
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.runtimeconfig.dev.json
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.dll
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.csprojResolveAssemblyReference.cache
+c:\users\claudiu\documents\visual studio 2017\Projects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.AssemblyInfo.cs
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.pdb
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.dll
+C:\Users\Claudiu\Documents\Visual Studio 2017\Projects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.pdb
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.deps.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.runtimeconfig.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.runtimeconfig.dev.json
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.dll
+D:\TestProjects\CarBuilder\CarBuilder\bin\Debug\netcoreapp1.1\CarBuilder.pdb
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.csprojResolveAssemblyReference.cache
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.AssemblyInfo.cs
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.dll
+D:\TestProjects\CarBuilder\CarBuilder\obj\Debug\netcoreapp1.1\CarBuilder.pdb
