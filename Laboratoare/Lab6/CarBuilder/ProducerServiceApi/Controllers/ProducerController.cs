@@ -1,17 +1,34 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
+using System.Collections.Generic;
+using ProducerServiceApi;
+using ProducerServiceApi.Infrastructure;
 
 namespace ProducerServiceApi.Controllers
 {
     [Route("api/[controller]")]
     public class ProducerController : Controller
     {
+        private Repository repo;
+
+        public ProducerController(Repository repo)
+        {
+            this.repo = repo;
+        }
+
+        // GET api/producer
+        [HttpGet]
+        public IList<CarOrder> Get()
+        {
+            return repo.CarOrders;
+        }
+
         // GET api/producer/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public CarOrder Get(int id)
         {
-            //Return status of build or car if completed
-            return "value";
+            return repo.CarOrders.FirstOrDefault(c => c.Id.Equals(id));
         }
 
         // POST api/producer/
@@ -24,6 +41,14 @@ namespace ProducerServiceApi.Controllers
 
             var id = new Random().Next(100, 199);
 
+            var newOrder = new CarOrder
+            {
+                Id = id,
+                Code = value
+            };
+
+            repo.CarOrders.Add(newOrder);
+
             var buildRequest = "B|" + id + "|" + value;
 
             ReadWriteQueue.SendBuildRequest(buildRequest);
@@ -33,11 +58,16 @@ namespace ProducerServiceApi.Controllers
 
         // PUT api/producer/5
         [HttpPut("{id}")]
-        public string Put(int id, [FromBody]string value)
+        public void Put(int id, [FromBody]string value)
         {
             //update list of build
 
-            return "Id=" + id + " | string";
+            var existingOrder = repo.CarOrders.FirstOrDefault(c => c.Id.Equals(id));
+
+            var parts = value.Split('|');
+
+            var component = parts[1].Trim();
+            existingOrder.ComponentStatus[component] = true;
         }
 
         // DELETE api/values/5
